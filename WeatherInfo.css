@@ -1,0 +1,58 @@
+/* .weather-form
+{
+  margin-bottom: 20px;
+}
+.weather-info
+{
+  background-color: rgba(0,0,0,0.5);
+  padding: 10px;
+}
+
+.weather-form label
+{
+    display: block;
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+.weather-form input
+{
+    width: 80%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.weather-form button
+{
+    padding: 10px 20px;
+    background: #ff9800;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background 0.3s;
+}
+
+.weather-form button:hover
+{
+    background: #ff9800;
+} */
+
+
+
+
+.weather-info
+{
+  position: relative;
+  width: 500px;
+  height: 200px;
+  background-color: rgba(0,0,0,0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 20px;
+}
